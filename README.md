@@ -2,6 +2,15 @@
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
+### LOADED TEMPLATE BY ALEX MERCED OF ALEXMERCEDCODER.COM
+
+- Router configured
+- Global State Configured using Alex's usedatastore library
+- Custom Components in the utility.jsx file
+- Custom Hooks in the customHooks.jsx file
+- Sass/Scss enabled
+- redirects file for redirecting routes on netlify
+
 ## Available Scripts
 
 ### npm start
