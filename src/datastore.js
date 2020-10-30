@@ -1,4 +1,4 @@
-import { createDataStore } from 'usedatastore';
+import { createDataStore } from 'merced-react-hooks';
 
 // Initial State
 const initialState = {

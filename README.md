@@ -5,9 +5,10 @@
 ### LOADED TEMPLATE BY ALEX MERCED OF ALEXMERCEDCODER.COM
 
 - Router configured
-- Global State Configured using Alex's usedatastore library
+- useDataStore (reducer/context configured) with merced-react-hooks library
 - Custom Components in the utility.jsx file
-- Custom Hooks in the customHooks.jsx file
+- Custom Hooks from merced-react-hooks library:
+  https://www.npmjs.com/package/merced-react-hooks
 - Sass/Scss enabled
 - redirects file for redirecting routes on netlify
 

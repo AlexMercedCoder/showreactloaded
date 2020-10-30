@@ -23,11 +23,11 @@
     "test": "web-test-runner \"src/**/*.test.jsx\""
   },
   "dependencies": {
+    "merced-react-hooks": "^1.0.9",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router": "^5.2.0",
-    "react-router-dom": "^5.2.0",
-    "usedatastore": "^1.0.1"
+    "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
     "@snowpack/plugin-dotenv": "^2.0.4",
